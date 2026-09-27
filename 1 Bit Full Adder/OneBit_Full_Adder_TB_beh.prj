@@ -1,0 +1,2 @@
+vhdl work "OneBit_Full_Adder.vhd"
+vhdl work "OneBit_Full_Adder_TB.vhd"
